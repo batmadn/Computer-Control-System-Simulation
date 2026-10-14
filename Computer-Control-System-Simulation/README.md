@@ -42,6 +42,4 @@ Computer-Control-System-Simulation/
     └── opject_6.m
 ```
 
-## 说明
 
-仓库保留原始脚本及其原始文件名 `opject_*.m`，未对算法结果进行重新验证，也未声称进行了真实机器人实验。可在 MATLAB 中复现实验并补充生成的结果图。
